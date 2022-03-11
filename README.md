@@ -8,7 +8,7 @@ Eugenia Raviolo (eugenia.raviolo@gmail.com)<br />
 Cesar Garcia (cesarnon@gmail.com)<br />
 Ingrid Teich (ingridteich@gmail.com)
 
-Cite this code as:[![DOI](https://zenodo.org/badge/468880473.svg)](https://zenodo.org/badge/latestdoi/468880473)
+Cite this code as:  [![DOI](https://zenodo.org/badge/468880473.svg)](https://zenodo.org/badge/latestdoi/468880473)
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
