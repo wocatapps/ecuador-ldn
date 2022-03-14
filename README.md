@@ -3,6 +3,8 @@ This is the source code for a google earth engine app that aims to support decis
 
 Ecuador LDN Google Earth Engine app: [https://wocatapps.users.earthengine.app/view/ldn-ecuador](https://wocatapps.users.earthengine.app/view/ldn-ecuador).
 
+All the data layers, both raster and vectors, are available to use or download as GEE Assets. The links can be found in the same code together with the visualization parameters that were used.
+
 For questions and feedback please contact:<br />
 Eugenia Raviolo (eugenia.raviolo@gmail.com)<br />
 Cesar Garcia (cesarnon@gmail.com)<br />
